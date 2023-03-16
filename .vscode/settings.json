@@ -1,0 +1,9 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8971bb38-9e62-4264-b2ed-b05448b93ff2/resourceGroups/rg-hhs-s4-deeltijd-react/providers/Microsoft.Web/sites/hhss4deeltijd-react",
+    "appService.deploySubpath": "build",
+    "appService.showBuildDuringDeployPrompt": false
+}
